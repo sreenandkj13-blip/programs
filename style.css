@@ -1,0 +1,49 @@
+body
+{
+    margin:0;
+    font-family:Arial;
+    background:#ffffe1;
+}
+header
+{
+    text-align:center;
+    background:#ff9800;
+    color:white;
+    padding:20px;
+}
+.content
+{
+    width:60%;
+    margin:30px auto;
+    padding:20px;
+    background:white;
+}
+input{
+    width:65%;
+    padding:10px;
+}
+button{
+    padding:10px;
+    background:#ff9800;
+    color:white;
+    border:0;
+}
+input,select
+{
+    padding:10px;margin:5px;
+}
+.event-box,.product,.note,.student
+{
+   margin:10px;padding:10px;background:#e3f2fd;
+}
+.product img{
+    width:150px;height:100px;
+}
+#result,#message
+{
+    margin-top:20px;padding:10px;
+}
+footer
+{
+    text-align:center;padding: 10px;background: #0d470d;color:white;
+}
